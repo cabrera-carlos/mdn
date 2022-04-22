@@ -1,4 +1,4 @@
-# JavaScript Projects
+# Web Development Projects
 
 ## Mozilla Developer Network
 
